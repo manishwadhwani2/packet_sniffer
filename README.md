@@ -1,7 +1,9 @@
 An API for directly capturing packets from the datalink layer of Unix-derived operating systems is provided by the open-source C library libpcap. It allows widely used packet capture programs, such tcpdump and snort, to function on almost any Unix flavor.
 
 This is an illustration of a basic libpcap-based packet sniffer program that shows packet data in a style similar like Snort.
+
 Prerequisite : Libpcap
+
 Run these command to install libpcap :sudo apt-get install libpcap-dev
 
 Compilation:
